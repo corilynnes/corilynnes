@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @corilynnes
+- 👀 I’m interested in so many things: programming, drawing, working out, plants, rehabbing furniture, making stained glass pieces, mostly just creating.
+- 🌱 I’m currently learning Angular, TypeScript, Sass, Node.js
+- 💞️ I’m looking to collaborate on most anythign to grow my knowledge
